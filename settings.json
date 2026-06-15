@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "minecraftmexperiement.play.hosting",
-    "port": 25565,
+    "port": 31478,
     "version": "26.1.2",
     "try-creative": false
   },
