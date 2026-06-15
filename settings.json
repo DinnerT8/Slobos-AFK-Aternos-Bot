@@ -1,12 +1,12 @@
 {
-  "name": "CloneDinner",
+  "name": "AfkBot",
   "bot-account": {
     "username": "CloneDinner",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftrgp.play.hosting",
+    "ip": "minecraftmexperiement.play.hosting",
     "port": 25565,
     "version": "26.1.2",
     "try-creative": false
